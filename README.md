@@ -1,2 +1,2 @@
 # PowerApps
-contiene progetti di Power App
+Contiene progetti di PowerApps Canvas e una libreria di componenti.
